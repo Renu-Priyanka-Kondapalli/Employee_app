@@ -21,7 +21,7 @@ rm -rf employee-availability-app
 echo "================================="
 echo " Cloning GitHub repo (Application)"
 echo "================================="
-git clone https://github.com/panthangiEshwary/employee-availability-app.git
+git clone https://github.com/Renu-Priyanka-Kondapalli/Employee_app.git
 cd employee-availability-app
 
 echo "================================="
