@@ -16,6 +16,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.INFRA_TRIGGER_TOKEN }}   # GitHub PAT (workflow:write)
-          repository: Manikanta0802/employee_app
+          repository: Renu-Priyanka-Kondapalli/Employee_app
           event-type: reboot-ec2
           client-payload: '{"update":"new-app-version"}'
