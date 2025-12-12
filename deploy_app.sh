@@ -22,7 +22,7 @@ echo "================================="
 echo " Cloning GitHub repo (Application)"
 echo "================================="
 git clone https://github.com/Renu-Priyanka-Kondapalli/Employee_app.git
-cd employee-availability-app
+cd  Employee_app
 
 echo "================================="
 echo " Detecting Private IP for metrics tagging"
